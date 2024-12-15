@@ -1,7 +1,0 @@
-*/*.out
-Makefile
-*/Makefile
-*/main
-
-basically everything except .c or .cpp
-
